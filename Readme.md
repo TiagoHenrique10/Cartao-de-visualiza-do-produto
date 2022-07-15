@@ -14,8 +14,11 @@ Os usuários devem ser capazes de:
 
 ![desktop-design](https://user-images.githubusercontent.com/96561261/179150230-fa88ecff-13bb-40e5-afd4-2dd95500af2f.jpg)
 
-### design mobile
-# Elaboração do projeto
+### Design mobile
+
+![mobile-design](https://user-images.githubusercontent.com/96561261/179150554-ee19c2a7-a714-4351-8484-d39b789ba619.jpg)
+
+# Como foi a elaboração do projeto
 
 * Contrução de um Html5 de maneira semantica
 * Trabalhando propriedes personalizadas com CSS
