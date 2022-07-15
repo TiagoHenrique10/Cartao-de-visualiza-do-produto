@@ -10,7 +10,11 @@ Os usuários devem ser capazes de:
 
 * Veja o layout ideal dependendo do tamanho da tela do dispositivo
 * Veja os estados de hover e foco para elementos interativos
+### Design desktop
 
+![desktop-design](https://user-images.githubusercontent.com/96561261/179150230-fa88ecff-13bb-40e5-afd4-2dd95500af2f.jpg)
+
+### design mobile
 # Elaboração do projeto
 
 * Contrução de um Html5 de maneira semantica
