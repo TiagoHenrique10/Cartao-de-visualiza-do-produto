@@ -20,8 +20,8 @@ Os usuários devem ser capazes de:
 
 # Como foi a elaboração do projeto
 
-* Contrução de um Html5 de maneira semantica
-* Trabalhando propriedes personalizadas com CSS
+* Construção de um Html5 de maneira semântica
+* Trabalhando as propriedades personalizadas com CSS
 * Flexbox
 * Fluxo de trabalho móvel 
 * Trazendo boas praticas com o Block Element Modifier (BEM) 
